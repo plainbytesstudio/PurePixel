@@ -88,6 +88,14 @@ PurePixel is **proprietary software** — source code is not available.
 
 ---
 
+## 🧩 How it works
+
+1. Drag images or folders  
+2. Choose output format  
+3. Click convert
+
+---
+
 ## 📦 Availability
 
 Available on Microsoft Store.
