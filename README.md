@@ -1,7 +1,7 @@
 # [PurePixel](https://github.com/plainbytesstudio/PurePixel)
 
 <p align="center">
-  <img src="./Assets/Application.png" width="128" height="128" alt="PurePixel Logo">
+  <img src="./assets/Application.png" width="128" height="128" alt="PurePixel Logo">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ In an era where cloud services often compromise privacy, **PurePixel** brings im
 
 ## 📸 Screenshots
 
-| ![PurePixel Main UI](https://raw.githubusercontent.com/plainbytesstudio/PurePixel/main/docs/screenshot_main.jpg) | ![Watermark Settings](https://raw.githubusercontent.com/plainbytesstudio/PurePixel/main/docs/screenshot_watermark.jpg) |
+| ![PurePixel Main UI](./assets/screenshot-1.png) | ![Watermark Settings](./assets/screenshot-3.jpg) |
 | :---: | :---: |
 | *Minimalist Windows 11 Native UI* | *Professional Watermark & Resize Controls* |
 
@@ -46,7 +46,7 @@ In an era where cloud services often compromise privacy, **PurePixel** brings im
 
 PurePixel is available as a **Freemium** app. Use it for free for standard tasks, or upgrade to **Pro** to unlock unlimited batch processing and the full power of our concurrent engine.
 
-[ ![Download from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg) ](https://apps.microsoft.com/store/detail/purepixel/你的AppID)
+[ ![Download from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg) ](https://apps.microsoft.com/store/detail/purepixel/9NR9QKWJ6QJQ)
 
 ---
 
