@@ -1,110 +1,70 @@
-# PurePixel
+# [PurePixel](https://github.com/plainbytesstudio/PurePixel)
 
-> Stop uploading your images to online tools.
+<p align="center">
+  <img src="./Assets/Application.png" width="128" height="128" alt="PurePixel Logo">
+</p>
 
-PurePixel is a fast, offline batch image converter for Windows.  
-Convert, resize, compress, and watermark images locally — no uploads, no tracking.
+<p align="center">
+  <strong>The Ultimate Privacy-First Image Hub for Windows 11</strong><br>
+  <em>Convert, Resize, and Protect your images — 100% Offline.</em>
+</p>
 
----
-
-## ⚠️ About This Repository
-
-This is a **product showcase repository**.  
-PurePixel is **proprietary software** — source code is not available.
-
-👉 Download from Microsoft Store:  
-[Get PurePixel](#)
-
----
-
-## 🚀 Key Features
-
-### Batch Image Processing
-- Batch convert images in seconds
-- Drag in multiple files or entire folders
-- Recursively scan subfolders
-- Keep original folder structure on export
-- Smart filtering for non-image files
-
-### Format Support
-**Input:** JPG, PNG, BMP, WebP, HEIC, AVIF, GIF, TIFF  
-**Output:** JPG, PNG, WebP, BMP, AVIF, ICO, PDF, TIFF
-
-### Resize & Compression
-- Resize by percentage or exact dimensions
-- Lock aspect ratio automatically
-- Long-edge resize for common publishing needs
-- Compress images with high-quality output
-
-### Watermark Tools
-- Add text watermarks
-- Add image/logo watermarks
-- Adjust opacity
-- Position watermarks with a 3×3 alignment grid
-- Real-time preview
-
-### Fast Local Performance
-- Multi-threaded processing for large batches
-- Built with a self-contained engine
-- No plugins or extra components required
-
-### Multilingual Experience
-- Built-in support for 7 languages:
-  - English
-  - 简体中文
-  - 繁體中文
-  - 日本語
-  - Français
-  - Deutsch
-  - Русский
-- Automatically matches the system language
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue" alt="Platform"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Framework-.NET%208%20WPF-success" alt="Framework"></a>
+  <a href="#"><img src="https://img.shields.io/badge/License-Proprietary-orange" alt="License"></a>
+</p>
 
 ---
 
-## ⚡ Why PurePixel
+## 🌟 Why PurePixel?
 
-- **100% Offline** — no uploads, no privacy risks  
-- **Privacy-First** — ideal for sensitive images  
-- **Fast Batch Workflow** — save time on repetitive tasks  
-- **Modern Windows 11 UI** — clean and native experience  
-- **Multilingual** — ready for global users  
+In an era where cloud services often compromise privacy, **PurePixel** brings image processing back to where it belongs: **Your Device.** Stop uploading your sensitive photos to online converters. PurePixel is a lightweight, high-performance tool designed for professionals who value both privacy and efficiency.
 
----
+### ✨ Key Features
 
-## 🎯 Use Cases
-
-- E-commerce image processing  
-- Social media publishing  
-- Bulk image conversion  
-- Logo and watermark branding  
-- Private or sensitive image handling  
+- **🚀 Extreme Performance:** Powered by .NET 8 and SkiaSharp. Leverages multi-threaded concurrent engines to convert hundreds of images in seconds.
+- **🛡️ 100% Offline & Private:** No cloud, no uploads, no data collection. All operations are performed locally on your machine.
+- **📸 Next-Gen Format Support:** Seamlessly handle **HEIC (iPhone)**, **AVIF**, **WebP**, JPG, PNG, BMP, ICO, and PDF.
+- **🎨 Professional Tools:**
+  - **Batch Resizing:** Scale by percentage or set exact pixel dimensions while maintaining a perfect aspect ratio.
+  - **Custom Watermarks:** Add text or image logos with professional 9-grid positioning and precise opacity control.
+- **🪄 Fluent Design:** Fully optimized for Windows 11 with **Mica** effects, smooth animations, and native Dark/Light mode support.
+- **🌍 Global Ready:** Built-in support for 7 languages: English, Simplified Chinese, Traditional Chinese, Japanese, French, German, and Russian.
 
 ---
 
-## 🖼️ Preview
+## 📸 Screenshots
 
-![PurePixel Screenshot](./preview.png)
-100% offline image processing — no upload, no cloud, fully private.
-
----
-
-## 🧩 How it works
-
-1. Drag images or folders  
-2. Choose output format  
-3. Click convert
+| ![PurePixel Main UI](https://raw.githubusercontent.com/plainbytesstudio/PurePixel/main/docs/screenshot_main.jpg) | ![Watermark Settings](https://raw.githubusercontent.com/plainbytesstudio/PurePixel/main/docs/screenshot_watermark.jpg) |
+| :---: | :---: |
+| *Minimalist Windows 11 Native UI* | *Professional Watermark & Resize Controls* |
 
 ---
 
-## 📦 Availability
+## 🛒 Get it on Microsoft Store
 
-Available on Microsoft Store.
+PurePixel is available as a **Freemium** app. Use it for free for standard tasks, or upgrade to **Pro** to unlock unlimited batch processing and the full power of our concurrent engine.
 
-👉 [Download PurePixel](#)
+[ ![Download from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg) ](https://apps.microsoft.com/store/detail/purepixel/你的AppID)
 
 ---
 
-## © License
+## 🛠️ Built With
 
-All rights reserved.  
-This project is not open source.
+- **[.NET 8 WPF](https://dotnet.microsoft.com/en-us/apps/desktop/wpf):** The foundation for high-performance desktop applications.
+- **[WPF-UI](https://wpfui.lepo.co/):** Delivering the modern Windows 11 visual experience.
+- **[SkiaSharp](https://github.com/mono/SkiaSharp):** A cross-platform 2D graphics API for .NET.
+- **[CommunityToolkit.Mvvm](https://github.com/CommunityToolkit/dotnet):** Standardized MVVM architecture.
+
+---
+
+## 📄 License
+
+This software is a proprietary product developed by **PlainBytes Studio**. Usage is governed by the [End User License Agreement (EULA)](LICENSE).
+
+---
+
+<p align="center">
+  Developed with ❤️ by PlainBytes Studio
+</p>
