@@ -85,6 +85,7 @@ PurePixel is **proprietary software** — source code is not available.
 
 ![PurePixel Screenshot](./preview.png)
 
+100% offline image processing — no upload, no cloud, fully private.
 ---
 
 ## 📦 Availability
