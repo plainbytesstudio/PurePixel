@@ -36,7 +36,7 @@ In an era where cloud services often compromise privacy, **PurePixel** brings im
 
 ## 📸 Screenshots
 
-| ![PurePixel Main UI](./assets/screenshot-1.png) | ![Watermark Settings](./assets/screenshot-3.jpg) |
+| ![PurePixel Main UI](./assets/screenshot-1.png) | ![Watermark Settings](./assets/screenshot-3.png) |
 | :---: | :---: |
 | *Minimalist Windows 11 Native UI* | *Professional Watermark & Resize Controls* |
 
