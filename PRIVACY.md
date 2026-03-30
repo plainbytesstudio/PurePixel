@@ -1,6 +1,6 @@
 # Privacy Policy for PurePixel
 
-**Effective Date: March 29, 2025**
+**Effective Date: March 29, 2026**
 
 **PlainBytes Studio** ("we," "us," or "our") develops the **PurePixel** application (the "Software"). We are committed to protecting your privacy. This Privacy Policy explains our practices regarding the collection, use, and disclosure of information when you use our Software.
 
