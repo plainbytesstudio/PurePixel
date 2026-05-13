@@ -1,7 +1,7 @@
 # [PurePixel](https://github.com/plainbytesstudio/PurePixel)
 
 <p align="center">
-  <img src="./assets/Application.png" width="128" height="128" alt="PurePixel Logo">
+  <img src="https://raw.githubusercontent.com/plainbytesstudio/PurePixel/main/assets/Application.png" width="128" height="128" alt="PurePixel Logo">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ In an era where cloud services often compromise privacy, **PurePixel** brings im
 
 ## 📸 Screenshots
 
-| ![PurePixel Main UI](./assets/screenshot-1.png) | ![Watermark Settings](./assets/screenshot-3.png) |
+| ![PurePixel Main UI](https://raw.githubusercontent.com/plainbytesstudio/PurePixel/main/assets/screenshot-1.png) | ![Watermark Settings](https://raw.githubusercontent.com/plainbytesstudio/PurePixel/main/assets/screenshot-3.png) |
 | :---: | :---: |
 | *Minimalist Windows 11 Native UI* | *Professional Watermark & Resize Controls* |
 
