@@ -36,7 +36,7 @@ In an era where cloud services often compromise privacy, **PurePixel** brings im
 
 ## 📸 Screenshots
 
-| ![PurePixel Main UI](https://raw.githubusercontent.com/plainbytesstudio/PurePixel/main/assets/screenshot-1.png) | ![Watermark Settings](https://raw.githubusercontent.com/plainbytesstudio/PurePixel/main/assets/screenshot-3.png) |
+| <img src="https://raw.githubusercontent.com/plainbytesstudio/PurePixel/main/assets/screenshot-1.png" width="48%"> | <img src="https://raw.githubusercontent.com/plainbytesstudio/PurePixel/main/assets/screenshot-3.png" width="48%"> |
 | :---: | :---: |
 | *Minimalist Windows 11 Native UI* | *Professional Watermark & Resize Controls* |
 
